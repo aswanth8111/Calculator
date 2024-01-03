@@ -1,0 +1,30 @@
+body{
+    background-color: gray;
+    background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+    
+}
+.input{
+    background-color: gray
+    
+    
+}
+
+.cal{
+    font-family: 'Satisfy', cursive;
+    color: ;
+}
+
+.op1{
+    background-color: lightblue;
+}
+.op2{
+    background-color: lightgreen;
+}
+.op3{
+    background-color: lightcoral;
+    
+}
+
+.t{
+    background-color: bisque;
+}
