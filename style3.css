@@ -1,6 +1,9 @@
 body{
     background-color: gray;
-    background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+    background-size: cover;
+    background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_52683-59882.jpg?w=996&t=st=1706540774~exp=1706541374~hmac=a695e945b6d55908120de30e0e84e07f3572195d00f93401ec104b7638f7bdf7);
+    background-repeat: no-repeat;
+    
     
 }
 .input{
@@ -11,7 +14,7 @@ body{
 
 .cal{
     font-family: 'Satisfy', cursive;
-    color: ;
+    
 }
 
 .op1{
